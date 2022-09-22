@@ -1,0 +1,108 @@
+@media(min-width : 240px){
+body{
+   background-color: rgb(25, 18, 54);
+}
+#first_div{
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 185px;
+    border-top: 6px groove white;
+    border-left: 6px groove white;
+    border-radius: 8px;
+  
+}
+.first{
+    padding: 8px;
+    font-size: 34px;
+    text-align:center;
+    color: whitesmoke;
+  font-weight: bolder;
+   
+}
+#first{
+    height:40px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 35px;
+    border-radius: 8px;
+    border-top: 5px solid white;
+    border-left: 5px solid white;
+    padding-top: 24px;
+}
+.first_letter{
+    letter-spacing: 4px;
+  padding: 9px;
+}
+#first_letter{
+    padding-left: 84px;
+}
+
+#contant{
+   padding-top:140px ;
+    text-align: center;
+    color: aliceblue;
+}
+.edit_contant{
+    letter-spacing: 4px;
+    font-size: 18px;
+}
+.edit_heart{
+    font-size: 25px;
+}
+
+#date_time{
+    margin: 24px;
+    padding: 35px;
+color: white;
+text-align: left;
+}
+.datetime{
+    padding: 8px;
+}
+#name_wedding{
+    margin: 24px;
+    padding-top: 55px;
+color: white;
+text-align: center;
+}
+.names{
+    padding: 12px;
+    letter-spacing: 3px;
+}
+#names{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(42, 163, 42);
+}
+#image{
+    text-align: center;
+    padding: 24px;
+}
+.image_size{
+    transition: 0.4s;
+    width: 260px;
+}
+.image_size:hover{
+    transform: scale(1.4);
+  
+}
+#adress{
+    text-align: left;
+    color: aliceblue;
+}
+.adress_h{
+    padding: 12px;
+}
+.edit_address{
+    color:rgb(121, 233, 29);
+}
+.direction{
+    text-align: center;
+    color: antiquewhite;
+    padding: 45px;
+}
+.edit_direction{
+    font-size: 20px;
+    color: aliceblue;
+}
+}
